@@ -8,6 +8,7 @@ namespace IlhanYumer\PhpCountries\Enums;
 enum IsoNumericCountryCode: int
 {
     case ALBANIA = 8;
+    case ANDORRA = 20;
     case ARGENTINA = 32;
     case AUSTRALIA = 36;
     case AUSTRIA = 40;
@@ -18,7 +19,9 @@ enum IsoNumericCountryCode: int
     case CHINA = 156;
     case TAIWAN = 158;
     case CUBA = 192;
+    case CYPRUS = 196;
     case CZECHIA = 203;
+    case DENMARK = 208;
     case FINLAND = 246;
     case FRANCE = 250;
     case GERMANY = 276;
@@ -31,11 +34,17 @@ enum IsoNumericCountryCode: int
     case ISRAEL = 376;
     case ITALY = 380;
     case JAPAN = 392;
+    case NORTH_KOREA = 408;
     case SOUTH_KOREA = 410;
     case LATVIA = 428;
     case LIECHTENSTEIN = 438;
+    case MALAYSIA = 458;
     case MALTA = 470;
     case MEXICO = 484;
+    case MONACO = 492;
+    case MONTENEGRO = 499;
+    case NEPAL = 524;
+    case NEW_ZEALAND = 554;
     case NORWAY = 578;
     case PAKISTAN = 586;
     case POLAND = 616;
