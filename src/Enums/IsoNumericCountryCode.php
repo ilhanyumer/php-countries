@@ -1,6 +1,6 @@
 <?php
 
-namespace IlhanYumer\PhpCountries;
+namespace IlhanYumer\PhpCountries\Enums;
 
 /**
  * ISO 3166 country codes
@@ -32,11 +32,14 @@ enum IsoNumericCountryCode: int
     case ITALY = 380;
     case JAPAN = 392;
     case SOUTH_KOREA = 410;
+    case LATVIA = 428;
     case LIECHTENSTEIN = 438;
+    case MALTA = 470;
     case MEXICO = 484;
     case NORWAY = 578;
     case PAKISTAN = 586;
     case POLAND = 616;
+    case PORTUGAL = 620;
     case ROMANIA = 642;
     case RUSSIA = 643;
     case SAN_MARINO = 674;

@@ -2,6 +2,7 @@
 
 namespace IlhanYumer\PhpCountries;
 
+use IlhanYumer\PhpCountries\Enums\IsoNumericCountryCode;
 use PHPUnit\Framework\TestCase;
 
 class CountryTest extends TestCase
