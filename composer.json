@@ -1,0 +1,20 @@
+{
+    "name": "ilhanumer/php-countries",
+    "description": "List of all countries.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IlhanYumer\\PhpCountries\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilhan Yumer",
+            "email": "ilhan@ilhan.name"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
