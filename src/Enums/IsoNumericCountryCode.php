@@ -61,11 +61,16 @@ enum IsoNumericCountryCode: int
     case RUSSIA = 643;
     case SAN_MARINO = 674;
     case SINGAPORE = 702;
+    case SLOVAKIA = 703;
+    case SLOVENIA = 705;
     case SOUTH_AFRICA = 710;
     case SPAIN = 724;
+    case SWEDEN = 752;
     case SWITZERLAND = 756;
+    case SYRIA = 760;
     case TURKEY = 792;
     case TURKMENISTAN = 795;
+    case TURKS_AND_CAICOS_ISLANDS = 796;
     case UKRAINE = 804;
     case UNITED_KINGDOM = 826;
     case UNITED_STATES = 840;
