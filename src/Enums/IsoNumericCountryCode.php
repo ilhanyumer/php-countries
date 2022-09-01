@@ -9,7 +9,11 @@ enum IsoNumericCountryCode: int
 {
     case AFGHANISTAN = 4;
     case ALBANIA = 8;
+    case ANTARCTICA = 10;
+    case ALGERIA = 12;
+    case AMERICAN_SAMOA = 16;
     case ANDORRA = 20;
+    case ANGOLA = 24;
     case ARGENTINA = 32;
     case AUSTRALIA = 36;
     case AUSTRIA = 40;
@@ -28,19 +32,29 @@ enum IsoNumericCountryCode: int
     case FINLAND = 246;
     case FRANCE = 250;
     case GERMANY = 276;
+    case KIRIBATI = 296;
     case GREECE = 300;
     case VATICAN = 336;
     case HUNGARY = 348;
+    case ICELAND = 352;
     case INDIA = 356;
     case INDONESIA = 360;
+    case IRAN = 364;
+    case IRAQ = 368;
     case IRELAND = 372;
     case ISRAEL = 376;
+    case JAMAICA = 388;
     case ITALY = 380;
     case JAPAN = 392;
+    case KAZAKHSTAN = 398;
+    case JORDAN = 400;
     case KENYA = 404;
     case NORTH_KOREA = 408;
     case SOUTH_KOREA = 410;
     case KYRGYZSTAN = 417;
+    case LAOS = 418;
+    case LEBANON = 422;
+    case LESOTHO = 426;
     case LATVIA = 428;
     case LIBYA = 434;
     case LIECHTENSTEIN = 438;
@@ -73,5 +87,7 @@ enum IsoNumericCountryCode: int
     case TURKS_AND_CAICOS_ISLANDS = 796;
     case UKRAINE = 804;
     case UNITED_KINGDOM = 826;
+    case JERSEY = 832;
+    case ISLE_OF_MAN = 833;
     case UNITED_STATES = 840;
 }

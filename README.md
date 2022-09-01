@@ -1,5 +1,11 @@
 # PHP Countries
 
+## How to install
+
+```bash
+composer require ilhanyumer/php-countries
+```
+
 ## How to use
 
 ```php
