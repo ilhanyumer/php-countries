@@ -29,12 +29,15 @@ enum IsoNumericCountryCode: int
     case CYPRUS = 196;
     case CZECHIA = 203;
     case DENMARK = 208;
+    case FIJI = 242;
     case FINLAND = 246;
     case FRANCE = 250;
+    case GEORGIA = 268;
     case GERMANY = 276;
     case KIRIBATI = 296;
     case GREECE = 300;
     case VATICAN = 336;
+    case HONDURAS = 340;
     case HUNGARY = 348;
     case ICELAND = 352;
     case INDIA = 356;
